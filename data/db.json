@@ -1,0 +1,28 @@
+{
+  "users": [
+    { 
+        "id": 1, 
+        "identifier": "carole-herboux", 
+        "role" : "Super admin",
+        "lastSeen": "01/01/2022"
+    },
+    { 
+        "id": 2, 
+        "identifier": "hamid.zemirline",
+        "role" : "admin", 
+        "lastSeen": "03/02/2021"
+    },
+    { 
+        "id": 3, 
+        "identifier": "oumar.fall",
+        "role" : "admin", 
+        "lastSeen": "06/05/2019"
+    },
+    { 
+        "id": 4, 
+        "identifier": "benoit.paris", 
+        "role" : "admin",
+        "lastSeen": "07/07/2022"
+    }
+  ]
+}
